@@ -1,6 +1,6 @@
 # PM2 Bug - Reloading environment variables with zero downtime
 
-Link: https://github.com/Unitech/pm2/issues/3192#issuecomment-409002530
+Issue [#3192](https://github.com/Unitech/pm2/issues/3192)
 
 # Steps
 
